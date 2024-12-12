@@ -3,7 +3,7 @@ Assignment for persist ventures
 
 # Setup instructions
 open terminal and run the commands:
-git clone ""
+git clone "https://github.com/aarushi-r-m/Video-Search-and-Upload-Bot-assignment"
 cd Video-Search-and-Upload-Bot-assignment
 
 # Install dependencies
